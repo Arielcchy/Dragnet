@@ -1,0 +1,4 @@
+Folder 1 - Business Understanding & Problem Discovery
+Folder 2 - Data Acquisition & Understanding
+Folder 3 - ML Modeling & Evaluation
+Folder 4 - Delivery & Acceptance
